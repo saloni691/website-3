@@ -1,4 +1,5 @@
 # Website link: bitwarden.com 
+--------------
 
 ## bitwarden.com Website
 
